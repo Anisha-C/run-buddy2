@@ -11,4 +11,4 @@ A website that offers fitness training services.
 https://anisha-c.github.io/run-buddy2/
 
 ## Contribution
-Made with ❤️ by [Anisha Cartagena]
+Made with ❤️ by Anisha Cartagena
